@@ -14,3 +14,10 @@ kode aksesnya
 username : admin
 password : secret
 =================
+
+atau
+
+=================
+username : admin
+password : admin
+=================
